@@ -4,7 +4,10 @@ rencana konten LVA Programming
 *ES6
 *kalkulator
 *frame work java script
+  view
 *struktur data dasar
 - PHP Framework
+  laravel
 - Interview
 - Vlog
+- Phython
