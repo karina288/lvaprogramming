@@ -5,6 +5,7 @@ rencana konten LVA Programming
 *kalkulator
 *frame work java script
   view
+  react
 *struktur data dasar
 - PHP Framework
   laravel
